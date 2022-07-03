@@ -23,18 +23,21 @@ ico"
         justifyItems="center"
         alignItems="center"
         textAlign="center"
+        wrap="wrap"
       >
         <Heading
           as="h1"
           color="white"
           size="2xl"
           mt="12"
+          px="16"
           textShadow="3px 3px #046244"
         >
           5 Estrelas - Diamba Bros. Disponível nas seguintes plataformas{' '}
         </Heading>
         <Flex
           direction="column"
+          flexWrap="wrap"
           px="16"
           py="10"
           mt="10"
